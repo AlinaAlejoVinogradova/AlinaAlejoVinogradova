@@ -16,7 +16,7 @@
 
 ## 🌱 About Me
 
-Hi! I'm **Alina Alejo Vinogradova** (she/her), an agricultural engineer specializing in Plant Science, with a background from Universidad Autónoma Chapingo, Mexico.
+Hi! I'm **Alina Alejo Vinogradova**, a plant scientist with an MSc in Plant Science from King Abdullah University of Science and Technology (KAUST), Saudi Arabia, and a Bachelor's degree in Agricultural Engineering specialized in Plant Science (Fitotecnia), from Universidad Autónoma Chapingo, Mexico.
 
 My scientific interests lie at the intersection of plant biology, genomics, and bioinformatics. I'm particularly interested in understanding how plants respond to environmental stress and how computational approaches can help uncover the molecular mechanisms underlying stress tolerance.
 
