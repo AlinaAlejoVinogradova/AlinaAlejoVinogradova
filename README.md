@@ -137,8 +137,6 @@ My repositories document my computational work and scientific analyses.
 
 </div>
 
-*The descriptions above summarize research areas from my academic experience; repository links can be added individually as projects are documented.*
-
 ---
 
 ## 🎓 Education
